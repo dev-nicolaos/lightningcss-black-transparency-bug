@@ -1,0 +1,16 @@
+:root {
+    /* #00000012 */
+    --Black-0: color(display-p3 0 0 0 / 0.07058823529411765);
+    /* #0000001a */
+    --Black-10: color(display-p3 0 0 0 / 0.10196078431372549);
+    /* #00000040 */
+    --Black-25: color(display-p3 0 0 0 / 0.25098039215686274);
+    /* #00000066 */
+    --Black-40: color(display-p3 0 0 0 / 0.4);
+    /* #00000099 */
+    --Black-60: color(display-p3 0 0 0 / 0.6);
+    /* #ffffff40 */
+    --a-white-transparency: color(display-p3 1 1 1 / 0.25098039215686274);
+    /* #ff7875 */
+    --a-red-color: color(display-p3 1 0.47058823529411764 0.4588235294117647);
+}

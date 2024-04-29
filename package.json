@@ -1,0 +1,9 @@
+{
+    "type": "module",
+  "scripts": {
+    "bundle-css": "node bundle.js"
+  },
+  "devDependencies": {
+    "lightningcss": "^1.24.1"
+  }
+}
