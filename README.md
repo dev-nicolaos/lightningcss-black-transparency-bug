@@ -3,7 +3,9 @@
 ## Environment
 
 Operating Systems Tested On: Windows 10 Enterprise 22H2, Fedora Linux 40
+
 Node Version: 20.10.0
+
 LightningCSS Version: 1.24.1
 
 ## Steps to Reproduce
