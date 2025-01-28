@@ -1,5 +1,7 @@
 # LightningCSS Black Transparency Minification Bug
 
+This repo was used as a minimal reproducible example for [an issue in Lightning CSS](https://github.com/parcel-bundler/lightningcss/issues/727), which is now fixed.
+
 ## Environment
 
 Operating Systems Tested On: Windows 10 Enterprise 22H2, Fedora Linux 40
